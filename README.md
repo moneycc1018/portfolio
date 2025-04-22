@@ -20,6 +20,7 @@
 用於監控端點裝置行為的系統，能即時偵測潛在威脅如惡意程式、異常行為等，並支援事件記錄、日誌調查分析與自動化回應，強化對端點攻擊的防禦與應變能力。
 
 - **負責項目**
+
   - 主導前端開發 (Next.js) 及 UI 設計 (Figma)
 
 <img src="images/edr-1.png" alt="edr-1" style="width: 49.8%" />
@@ -30,6 +31,7 @@
 使用 Chrome 擴充功能結合 IoC 萃取模型，分析當前網頁中的威脅情資報告，將萃取出的威脅指標自動分類並標註於頁面上，以提升情資資料庫的完整性與可用性。
 
 - **負責項目**
+
   - 主導前端開發 (HTML, Chrome Extension) 及 UI 設計 (Figma)
 
 <img src="images/seclaw.png" alt="seclaw" style="width: 49.8%" />
