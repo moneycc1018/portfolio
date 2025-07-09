@@ -12,19 +12,22 @@
   - 主導前端開發 (Next.js) 及參與 UI 設計 (Figma)
   - 撰寫及調整部分後端 API (FastAPI, OpenSearch Query DSL)
 
-<img src="images/ndr-1.png" alt="ndr-1" style="width: 49.8%" />
-<img src="images/ndr-2.png" alt="ndr-2" style="width: 49.8%" />
+<img src="images/ndr-1.png" alt="ndr-1" style="width: 75%" />
+<img src="images/ndr-2.png" alt="ndr-2" style="width: 75%" />
 
 ### Endpoint Detection and Response (EDR) - 資策會資安所
 
 用於監控端點裝置行為的系統，能即時偵測潛在威脅如惡意程式、異常行為等，並支援事件記錄、日誌調查分析與自動化回應，強化對端點攻擊的防禦與應變能力。
 
+- **成果**
+  - 技術轉移至台灣大哥大
+
 - **負責項目**
 
   - 主導前端開發 (Next.js) 及 UI 設計 (Figma)
 
-<img src="images/edr-1.png" alt="edr-1" style="width: 49.8%" />
-<img src="images/edr-2.png" alt="edr-2" style="width: 49.8%" />
+<img src="images/edr-1.png" alt="edr-1" style="width: 75%" />
+<img src="images/edr-2.png" alt="edr-2" style="width: 75%" />
 
 ### SEClaw - 資策會資安所
 
@@ -34,7 +37,7 @@
 
   - 主導前端開發 (HTML, Chrome Extension) 及 UI 設計 (Figma)
 
-<img src="images/seclaw.png" alt="seclaw" style="width: 49.8%" />
+<img src="images/seclaw.png" alt="seclaw" style="width: 75%" />
 
 ### Post-Quantum Security Assessment Tool (PQ-SAT) - 資策會資安所
 
@@ -47,7 +50,7 @@
 - **負責項目**
   - 主導前、後端開發 (Next.js, Prisma)
 
-<img src="images/pq-sat.png" alt="pq-sat" style="width: 49.8%" />
+<img src="images/pq-sat.png" alt="pq-sat" style="width: 75%" />
 
 ---
 
@@ -55,5 +58,5 @@
 
 一款結合 KKBOX 與 YouTube Music 的猜歌小遊戲，玩家可依歌手與標籤篩選歌曲池，並自由新增、刪除歌曲或編輯標籤。
 
-<img src="images/song-la-1.png" alt="song-la-1" style="width: 49.8%" />
-<img src="images/song-la-2.png" alt="song-la-2" style="width: 49.8%" />
+<img src="images/song-la-1.png" alt="song-la-1" style="width: 75%" />
+<img src="images/song-la-2.png" alt="song-la-2" style="width: 75%" />
