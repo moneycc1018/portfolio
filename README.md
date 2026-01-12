@@ -54,9 +54,9 @@
 
 ---
 
-### SongLa - Side Project
+### SongLa - Side Project [🔗](https://github.com/moneycc1018/song_la_v2)
 
-一款結合 YouTube Music 的猜歌小遊戲，玩家可依歌手與標籤篩選歌曲池，並自由新增、刪除歌曲或編輯標籤。
+一款結合 YouTube Music 的猜歌小遊戲，玩家可依歌手與標籤篩選歌曲池，並自由新增、刪除歌曲或編輯標籤 (目前僅有作者帳號能夠異動歌曲及標籤)。
 
 <img src="images/song-la-1.png" alt="song-la-1" style="width: 75%" />
 <img src="images/song-la-2.png" alt="song-la-2" style="width: 75%" />
