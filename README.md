@@ -29,16 +29,6 @@
 <img src="images/edr-1.png" alt="edr-1" style="width: 75%" />
 <img src="images/edr-2.png" alt="edr-2" style="width: 75%" />
 
-### SEClaw - 資策會資安所
-
-使用 Chrome 擴充功能結合 IoC 萃取模型，分析當前網頁中的威脅情資報告，將萃取出的威脅指標自動分類並標註於頁面上，以提升情資資料庫的完整性與可用性。
-
-- **負責項目**
-
-  - 主導前端開發 (HTML, Chrome Extension) 及 UI 設計 (Figma)
-
-<img src="images/seclaw.png" alt="seclaw" style="width: 75%" />
-
 ### Post-Quantum Security Assessment Tool (PQ-SAT) - 資策會資安所
 
 識別網路通訊所採用的加密機制，分析其安全性並進行評等，呈現加密封包、憑證資訊和 CBOM 等，強化通訊安全的可視性。
@@ -51,6 +41,16 @@
   - 主導前、後端開發 (Next.js, Prisma)
 
 <img src="images/pq-sat.png" alt="pq-sat" style="width: 75%" />
+
+### SEClaw - 資策會資安所
+
+使用 Chrome 擴充功能結合 IoC 萃取模型，分析當前網頁中的威脅情資報告，將萃取出的威脅指標自動分類並標註於頁面上，以提升情資資料庫的完整性與可用性。
+
+- **負責項目**
+
+  - 主導前端開發 (HTML, Chrome Extension) 及 UI 設計 (Figma)
+
+<img src="images/seclaw.png" alt="seclaw" style="width: 75%" />
 
 ---
 
